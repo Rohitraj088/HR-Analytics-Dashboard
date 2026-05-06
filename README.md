@@ -1,4 +1,4 @@
-<img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/ffb708ae-df2d-4e39-9899-974189dd023e" />
+
 
 
 
@@ -14,7 +14,7 @@ The dashboard helps HR teams and management identify key factors influencing emp
 
 # Dashboard Preview
 
-![HR Analytics Dashboard](image\(20\).png)
+<img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/ffb708ae-df2d-4e39-9899-974189dd023e" />
 
 ---
 
