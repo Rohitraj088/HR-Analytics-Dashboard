@@ -1,3 +1,7 @@
+<img width="1107" height="647" alt="image" src="https://github.com/user-attachments/assets/ffb708ae-df2d-4e39-9899-974189dd023e" />
+
+
+
 # HR Analytics Dashboard – Employee Attrition & Workforce Insights
 
 ## Overview
